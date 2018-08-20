@@ -1,2 +1,2 @@
-# README.md
-My doctoral phase of the research phase of the study
+#  介绍
+*  博士阶段相关学习内容
